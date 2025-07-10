@@ -14,7 +14,7 @@ A ticket management system built using **Next.js 13 App Router**, featuring clie
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
 - 📝 Create, update, and delete support tickets
 - 🔢 Priority rating via flames (🔥)
@@ -26,9 +26,14 @@ A ticket management system built using **Next.js 13 App Router**, featuring clie
 
 ---
 
+## 🚀 Live Demo
+
+Experience the app directly:  
+👉 [Click here to try it out!](https://react-ticket-app-haris-rehans-projects.vercel.app/)
+
 ## 🖼️ Screenshots
 
-![Ticket App Preview](./screenshot.png)
+![Ticket App Preview](./Screenshot.png)
 
 ---
 
