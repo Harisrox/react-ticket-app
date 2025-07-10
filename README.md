@@ -33,7 +33,7 @@ Experience the app directly:
 
 ## 🖼️ Screenshots
 
-![Ticket App Preview](./Screenshot.png)
+![Ticket App Preview](./Screenshot.PNG)
 
 ---
 
